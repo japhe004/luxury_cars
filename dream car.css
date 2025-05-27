@@ -1,0 +1,27 @@
+*{font-family: cursive, sans-serif;}
+body{background-color:grey}
+.a{color:darkgreen;} .b2{color: red;} .c{font-style: italic;}
+.d{color: darkslategray;padding-left: 62px;} .e{color:darkred ;} .f{color:yellow;}
+.g{background-color: gray;color: coral;}
+.i{border: 3px;border-style: dotted;border-radius: 20px;padding: 5px 6px;}
+.j{text-align: center;color: yellow;}
+.ab{box-shadow: 0 4PX 8PX rgba(0,0,.3);}
+ /*drawing lines at the bottom:_border-bottom: black solid;. Is a about styling the list in ul list in the class "i"*/
+h1,h2{color: yellow;text-align: center;} h3{color: yellow;text-align: center;}
+a:hover{color: aqua;}/*the moment you move the cursor on the link it changes to the color set*/
+a:active{color: chartreuse;}/*the moment you click the link it changes the color set*/
+img{width: 350px;height: 250px;border-radius: 50px;border-color: black; box-shadow: 0 4px 8px rgb(23, 2, 92);}/*for changing the uppercase to lowercase text-transform: lowercase;*/
+/*img {height: 200px ;width: 250px; border-radius: 50px; padding: 4% 40%; padding-bottom: 3px; }*/
+.a1{background-color: yellow;}.b{color: darkgreen;}.c1{color: darkslategray;line-height: 1.6em;background-color: aqua;border: 3px yellow dotted;border-bottom-style: ridge;}
+.d1{background-color: darkorchid;box-shadow: 0 4px 8px rgb(118, 12, 102);}
+.e1{background-color: black;color: darkred;margin: auto;}.f1{background-color: green;color: aquamarine;}
+.g1{background-color: cornsilk;color: cornflowerblue;}
+.pro{background-color: yellow; color:green;
+    display:relative 3px;
+}
+iframe{border-radius: 50px; box-shadow: 0 4px 8px rgb(66, 63, 63);}
+video{
+    height: 350px;width: 500px; border-radius: 53px;
+    overflow:auto;
+    box-shadow: 0 4px 8px rgba(0,0,.3);
+}
